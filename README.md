@@ -35,6 +35,7 @@
 - 🧠 MoodBot Chatbot (GenAI based)
 - 📈 Gold Price Prediction (ML Project)
 - ❤️ Heart Disease Prediction
+- 📊 Walmart sales analysis
 - 🚢 Titanic Survival Prediction
 
 
