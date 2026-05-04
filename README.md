@@ -41,11 +41,12 @@
 - 📊 Walmart sales analysis
 - 🚢 Titanic Survival Prediction
 
-- Github Stats
+  Github Stats
 
-- ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Shailja_Gupta&show_icons=true&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
   
 
 
