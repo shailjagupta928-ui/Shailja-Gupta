@@ -1,7 +1,15 @@
-# Hi 👋, I'm Shailja Gupta  
-🎓 BCA Student | 🤖 AI & Data Enthusiast | 🚀 Future Tech Professional  
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Shailja Gupta 
+
+
+🎓 BCA Student | 🤖 AI & ML Enthusiast | 🚀 Future Tech Professional  
+
+
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=F70000&lines=AI+Enthusiast;ML+Learner;Future+Data+Analyst)
+
+
+
+
 🌱 Currently learning: Machine Learning & Generative AI  
 🚀 Goal: Placement in top tech company  
 
