@@ -28,14 +28,8 @@
 - ❤️ Heart Disease Prediction
 - 🚢 Titanic Survival Prediction
 
----
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: (www.linkedin.com/in/shailja-gupta-16aa362b6)
