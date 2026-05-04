@@ -4,7 +4,8 @@
 🎓 BCA Student | 🤖 AI & ML Enthusiast | 🚀 Future Tech Professional  
 
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=F70000&lines=AI+Enthusiast;ML+Learner;Future+Data+Analyst)
+
+![Typing](https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&width=500&lines=AI+Enthusiast;ML+Learner)
 
 
 
