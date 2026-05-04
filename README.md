@@ -1,1 +1,46 @@
-# Shailja-Gupta
+# Hi 👋, I'm Shailja Gupta
+
+🎓 BCA Student | 💻 Aspiring AI & ML 
+🌱 Currently learning: Machine Learning & Generative AI  
+🚀 Goal: Placement in top tech company  
+
+---
+
+## 🧠 About Me
+- 🔭 I’m currently working on AI & ML projects
+- 🤖 Built projects like MoodBot Chatbot & Gold Price Prediction
+- 📊 Interested in Data Analysis & GenAI
+- 💡 Love solving real-world problems using tech
+
+---
+
+## 💻 Tech Stack
+- Languages: Python, C
+- Web: HTML, CSS
+- Tools: Git, VS Code, Streamlit
+- Concepts: Machine Learning, Data Analysis
+
+---
+
+## 🚀 Projects
+- 🧠 MoodBot Chatbot (GenAI based)
+- 📈 Gold Price Prediction (ML Project)
+- ❤️ Heart Disease Prediction
+- 🚢 Titanic Survival Prediction
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: (www.linkedin.com/in/shailja-gupta-16aa362b6)
+- 📧 Email: shailjagupta928@gmail.com
+
+---
+
+⭐ "Always learning, always growing"
