@@ -17,9 +17,6 @@
 
 ## 🧠 About Me
 - 🔭 I’m currently working on AI & ML projects
-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,vscode" />
-</p>
 - 🤖 Built projects like MoodBot Chatbot & Gold Price Prediction
 - 📊 Interested in Data Analysis & GenAI
 - 💡 Love solving real-world problems using tech
@@ -31,6 +28,9 @@
 - Web: HTML, CSS
 - Tools: Git, VS Code, Streamlit
 - Concepts: Machine Learning, Data Analysis
+- <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,vscode" />
+</p>
 
 ---
 
