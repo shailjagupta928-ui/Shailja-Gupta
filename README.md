@@ -34,12 +34,25 @@
 
 ---
 
-## 🚀 Projects
-- 🧠 MoodBot Chatbot (GenAI based)
-- 📈 Gold Price Prediction (ML Project)
-- ❤️ Heart Disease Prediction
-- 📊 Walmart sales analysis
-- 🚢 Titanic Survival Prediction
+🚀 Featured Projects
+🔁 Customer Churn Prediction
+Predicting telecom customer churn using a full ML pipeline — deployed live!
+Models: Logistic Regression (78.7% acc) · Random Forest · XGBoost
+Stack: Python · Scikit-learn · XGBoost · Pandas · Streamlit
+Highlights: Automated sklearn Pipeline (OneHotEncoding + StandardScaler) · 35 commits
+🌐 Live App →
+❤️ Heart Disease Prediction
+Predicts heart disease risk from 13 clinical features — with a real web UI
+Model: K-Nearest Neighbours (KNN) · saved as .pkl for production
+Stack: Python · Scikit-learn · Streamlit · Jupyter Notebook
+Highlights: Full artefact serialisation (model + scaler + columns) · 13 commits
+🌐 Live App →
+🤖 MoodBot — AI Emotion Chatbot
+An NLP chatbot that detects your emotion and responds with empathy
+Detects: Happy · Sad · Angry · Funny · Neutral
+Stack: Python · NLP · Streamlit · Pandas · NumPy
+Highlights: Real-time emotion classification · Mental wellness use case · Deployed
+🌐 Live App →
 
 
 
